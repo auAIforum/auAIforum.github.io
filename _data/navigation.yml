@@ -3,9 +3,9 @@ main:
   - title: "Events"
     url: /events/
   - title: "AI Team"
-    url: /events/
+    url: /team/
   - title: "Contact"
-    url: /events/
+    url: /contact/
   #url: /year-archive/
   # - title: "Sample Collections"
   #   url: /collection-archive/
