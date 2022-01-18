@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Events"
-   # url: /events/
+    url: /events/
   - title: "AI Team"
   #url: /team/
   #url: https://mmistakes.github.io/minimal-mistakes/team/
