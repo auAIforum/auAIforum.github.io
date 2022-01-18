@@ -6,6 +6,7 @@ permalink: /events/
 collection: events
 entries_layout: grid
 sort_by: date
+classes: wide
 sort_order: forward
 ---
 
