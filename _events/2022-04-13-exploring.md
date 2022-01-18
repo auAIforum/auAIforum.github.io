@@ -4,5 +4,5 @@ layout: splash
 excerpt: "speaker: Sarp Aykent
           date: 04/13/2022"
 header:
-  teaser: assets/images/teaser12.jpeg
+  teaser: assets/images/teaser26.png
 ---
