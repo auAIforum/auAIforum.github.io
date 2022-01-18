@@ -1,6 +1,7 @@
 ---
 title: "Artificial Intelligence Events"
 layout: collection
+author_profile: false
 permalink: /events/
 collection: events
 entries_layout: grid
