@@ -276,7 +276,7 @@ compress_html:
     
 #Collections
 collections:
-    events:
+  events:
     output: true
     permalink: /:collection/:path/
 
