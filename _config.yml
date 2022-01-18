@@ -278,7 +278,6 @@ compress_html:
 collections:
   events:
     output:true
-    permalink: /:collection/:path
 
 
 # Defaults
