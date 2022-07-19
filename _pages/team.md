@@ -1,5 +1,5 @@
 ---
-title: "AI Team"
+title: "AI @ AU Faculty"
 layout: splash
 permalink: /team/
 ---
