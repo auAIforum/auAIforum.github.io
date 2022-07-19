@@ -1,6 +1,6 @@
 ---
 title: "AI @ AU Faculty"
 layout: splash
-permalink: /team/
+permalink: /faculty/
 ---
 ### It's coming soon
