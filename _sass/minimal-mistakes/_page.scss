@@ -16,6 +16,9 @@
 
   @include breakpoint($x-large) {
     max-width: $max-width;
+    display:flexbox;
+    justify-content:center;
+    
   }
 }
 
