@@ -1,4 +1,3 @@
-
 ---
 title: "Meet our professional faculty team."
 layout: collection
