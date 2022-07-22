@@ -1,6 +1,5 @@
 
 ---
-subtitle:AI Faculty 
 title: "Meet our professional faculty team."
 layout: collection
 author_profile: false
