@@ -63,7 +63,11 @@
     opacity: 0.5;
   }
   a{
-  color:#e86100}
+  color:#e86100;
+    &:hover{
+    color:#cc4e0b;
+    }
+  }
 }
 
 /* remove border*/
