@@ -1,6 +1,7 @@
 ---
+layout:archive
 excerpt: "Santu Karmaker"
 header:
-  image: assets/images/karmaker-santu.jpeg
+  teaser: assets/images/karmaker-santu.jpeg
 ---
 
