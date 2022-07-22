@@ -4,7 +4,6 @@ excerpt: "Santu Karmaker"
 header:
   teaser: assets/images/karmaker-santu.jpeg
 --- -->
-gallery:
   - url: /assets/images/karmaker-santu.jpeg
     image_path: /assets/images/karmaker-santu.jpeg
     alt: "placeholder image 1"
