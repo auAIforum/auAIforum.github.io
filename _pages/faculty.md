@@ -1,5 +1,5 @@
 ---
-title: "Meet our professiona; faculty team."
+title: "Meet our professional faculty team."
 layout: collection
 author_profile: false
 permalink: /faculty/
