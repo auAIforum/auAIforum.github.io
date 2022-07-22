@@ -15,7 +15,6 @@
   border: 0;
   outline: none;
   color: $primary-color;
-  color:#cc4eob;
   background-color: transparent;
   cursor: pointer;
   -webkit-transition: 0.2s;
@@ -23,6 +22,12 @@
 
   &:hover {
     color: mix(#000, $primary-color, 25%);
+  }
+}
+.search__toggle .fa-search{
+  color:#e86100;
+  &:hover{
+  color:#cc4e0b;
   }
 }
 
