@@ -15,3 +15,6 @@ gallery:
     alt: "placeholder image 1"
     title: "Image 1 title caption"
 </figure>
+<img src="/assets/images/karmaker-santu.jpeg"
+     alt="Markdown Monster icon"
+     style="float: left; margin-right: 10px;" />
