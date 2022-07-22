@@ -250,7 +250,9 @@
         -webkit-transform: scaleX(0) translate3d(0, 0, 0);
         transform: scaleX(0) translate3d(0, 0, 0); // hide
       }
-
+      &:before{
+        background:#e86100;
+      }
       &:hover:before {
         -webkit-transform: scaleX(1);
         -ms-transform: scaleX(1);
