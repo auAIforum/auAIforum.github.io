@@ -279,6 +279,10 @@ collections:
   events:
     output: true
     permalink: /:collection/:path/
+  
+  faculty:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
